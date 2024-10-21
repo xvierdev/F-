@@ -2,6 +2,6 @@
 
 first steps in F# to solve problems.  
 
-reference  
+### *Reference*  
 
-(Microsoft Learning) []
+[Microsoft Learning] (https://learn.microsoft.com/pt-br/training/modules/fsharp-conditional)  
